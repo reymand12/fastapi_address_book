@@ -131,7 +131,7 @@ Returns addresses within a specified distance (km) from the given coordinates.
 
 ## Quick Setup Summary (5-minute run)
 
-1. Clone repo: `git clone https://github.com/<username>/fastapi_address_book.git && cd fastapi_address_book`  
+1. Clone repo: `git clone https://github.com/reymand12/fastapi_address_book.git && cd fastapi_address_book`  
 2. Create venv: `python -m venv venv`  
 3. Activate venv: `venv\Scripts\activate` (Windows) / `source venv/bin/activate` (Mac/Linux)  
 4. Install deps: `pip install -r requirements.txt`  
