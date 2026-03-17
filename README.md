@@ -43,6 +43,13 @@ GET /addresses
 ### Update Address
 PUT /addresses/{id}
 
+Example:
+{
+  "name": "Updated Location",
+  "latitude": 14.6000,
+  "longitude": 120.9850
+}
+
 ---
 
 ### Delete Address
